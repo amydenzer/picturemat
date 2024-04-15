@@ -1,0 +1,8 @@
+/* global styles */
+
+body {color: #333333;}
+
+h1 {color: #750f0f; font-size: 2em;}
+
+section {min-height: 400px;}
+footer {font-size: 90%; text-align: center;}
